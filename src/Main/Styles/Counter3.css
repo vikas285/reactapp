@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 500px;
+  background-color: #eee;
+}
+
+.textbtn {
+  background-color: white;
+  color: #454545;
+  font-size: 30px;
+}
+
+
+
+.incrementbtn {
+  color: white;
+  background-color: green;
+}
+
+.decrementbtn {
+  color: white;
+  background-color: blue;
+}
